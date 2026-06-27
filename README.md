@@ -24,4 +24,4 @@ A Finite Impulse Response (FIR) low-pass filter was designed by selecting suitab
 
 ## Note
 
-This project was completed as a group project. My contribution focused on signal analysis, FIR low-pass filtering, MATLAB implementation, frequency-domain interpretation, and result discussion.
+This project was completed as a group project. I was mainly responsible for the MATLAB code implementation, including FFT analysis, FIR low-pass filter design, and filtered/original signal comparison.
